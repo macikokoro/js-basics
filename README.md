@@ -1,11 +1,10 @@
 # JS Basics
 
-Repo with JS basic programs for beginners.
+One input box mean calculator
 
-##Master branch contains a simple adding calculator that takes two inputs
-from two separater input boxes.
-
-#single-input branch contains a mean calculator that takes input from a
-set of numbers from an input box.
+Usage:
+- clone repo.
+- open index.html in your favorite browser.
+- play around with the code.
 
 License: MIT
